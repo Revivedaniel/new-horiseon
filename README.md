@@ -23,3 +23,11 @@ In the Footer it reads
 "made with ❤️ by Horiseon" 
 and below that 
 "&copy; 2019 Horiseon Social Solution Services, Inc."
+
+Deployed:
+https://revivedaniel.github.io/new-horiseon/
+
+Screenshots:
+![Screenshot 1](./assets/images/Screenshot1.PNG)
+![Screenshot 2](./assets/images/Screenshot2.PNG)
+![Screenshot 3](./assets/images/Screenshot3.PNG)
